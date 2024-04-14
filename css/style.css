@@ -274,21 +274,6 @@ code, pre {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* || FOOTER || */
 
 .footer .social a {
@@ -386,9 +371,6 @@ code, pre {
 }
 
 
-
-
-
 /* MOBILE */
 @media (max-width: 500px) {
   .navbar {
@@ -403,6 +385,11 @@ code, pre {
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.1);
     border-radius: 5px;
+  }
+
+  .showcase__form {
+    width: 300px;
+  
   }
 
 }

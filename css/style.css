@@ -403,6 +403,11 @@ code, pre {
   text-align: center;
 }
 
+.showcase {
+  height: auto;
+}
+
+
 .showcase__text {
   animation: slideInFromTop 1s ease-in-out;
 }
@@ -414,4 +419,4 @@ code, pre {
 }
   
 }
-}
+

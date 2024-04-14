@@ -403,11 +403,15 @@ code, pre {
   text-align: center;
 }
 
-.showcase {
-  height: auto;
+.showcase__text {
+  animation: slideInFromTop 1s ease-in-out;
 }
+  
 
 .showcase__form {
   margin-inline: auto;
+  animation: slideInFromBottom 1s ease-in-out;
+}
+  
 }
 }
